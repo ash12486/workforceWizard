@@ -48,7 +48,10 @@ mysql -u root -p workforce_db < db/seeds.sql
 ````
 
 ## Usage
-![Demo]
+Click here to see a demo: 
+https://drive.google.com/file/d/1xOZ8uDl2vEZxKpPtgL5i1My3ECpugmqT/view?usp=share_link
+
+![Demo](./images/Screenshot.png)
 
 To start the Workforce Wizard, run the following command in your terminal:
 
