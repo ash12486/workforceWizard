@@ -1,0 +1,25 @@
+{
+  "name": "workforcewizard",
+  "version": "1.0.0",
+  "description": "The Employee Tracker is a command-line application that allows users to view, add, and update departments, roles, and employees in a database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash12486/workforceWizard.git"
+  },
+  "author": "Ashlee Huff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ash12486/workforceWizard/issues"
+  },
+  "homepage": "https://github.com/ash12486/workforceWizard#readme",
+  "dependencies": {
+    "console-table-printer": "^2.11.1",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.0"
+  }
+}
